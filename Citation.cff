@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this data, please cite it as below."
+authors:
+- family-names: "Hakiki"
+  given-names: "Farizal"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Arifurrahman"
+  given-names: "Faizal"
+  orcid: "https://orcid.org/0000-0003-3109-0187"
+title: "Cross-Linked and Responsive Polymer: Gelation Model and Review"
+version: 0.1.0
+doi: 10.5281/zenodo.7245232
+date-released: 2022-10-24
+url: "https://doi.org/10.5281/zenodo.7245232"
