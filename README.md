@@ -1,5 +1,5 @@
 ### Cross-Linked and Responsive Polymer: Gelation Model and Review (data)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7385359.svg)](https://doi.org/10.5281/zenodo.7385359)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7394302.svg)](https://doi.org/10.5281/zenodo.7394302)
 
 
 This page contains data and reproduce script for our [manuscript](xxx), in which we use it as a dataset for the machine learning algorithm to predict the polymer gelation time.
